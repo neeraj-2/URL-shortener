@@ -2,4 +2,4 @@
  This is an app that shortens long-lengthy url
 
  ![ScreenShot](images/prev.jpg)
- ![ScreenShot](images/gif.mp4)
+ ![ScreenShot](images/prev.gif)
